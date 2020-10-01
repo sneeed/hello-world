@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+
+Hallo Welt?!
+
+Eine Zeile in GitHub schreiben... Erledigt.
